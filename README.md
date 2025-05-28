@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a backend developer with 5 years of non-commercial experience.  
+I am a backend developer with 5 years of non-commercial experience(Accept the small).  
 Skilled in Django, NumPy, and data science for data processing and analysis.  
 Experienced with C and C++, and the QT framework for GUI development.  
 Familiar with HTML and CSS, and have working knowledge of React and Dart.
